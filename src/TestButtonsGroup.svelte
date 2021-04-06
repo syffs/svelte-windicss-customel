@@ -26,6 +26,7 @@
     </div>
 </div>
 
+<!--<style>-->
 <style lang="postcss">
     .btn-group {
         font-family: 'Nunito Sans', Helvetica, sans-serif;
